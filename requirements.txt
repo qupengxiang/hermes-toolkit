@@ -1,0 +1,13 @@
+# requirements.txt
+# Hermes Toolkit dependencies
+
+# GUI (TkInter is built-in, no installation needed)
+
+# Data serialization
+PyYAML>=6.0
+
+# Encryption for API keys
+cryptography>=41.0.0
+
+# Optional: for better looking UI
+# Pillow>=10.0.0  # For image handling if needed
